@@ -10,3 +10,5 @@ Important steps
 6. Logistic Regression
 7. Confusion Matrix for Analyzing Results
 8. Conclusion
+
+Check out the presentation we made for our class here: https://docs.google.com/presentation/d/1Nasf87JiBF5jwccwRxJTj557H-IZYO4y_yj8Owzpj7A/edit?usp=sharing 
